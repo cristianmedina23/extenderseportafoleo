@@ -497,13 +497,11 @@ p .sn-icons {
 }
 
 @media only screen and (max-width:890px){
-<<<<<<< HEAD
+
     .cristian .testimonios .box-testimonio .card-testimonio .card-img img{width: 200px; height: 200px;}
     .cristian .testimonios .box-testimonio .card-testimonio{width: 100%;}
-=======
     .testimonios .box-testimonio .card-testimonio .card-img img{width: 200px; height: 200px;}
     .testimonios .box-testimonio .card-testimonio{width: 100%;}
->>>>>>> 68f7d70a023c76301d882319c03fdbc2e8dd672f
     .testimonios .box-testimonio .card-testimonio .testimonio-text h4{font-size: 25px;}
     .testimonios .box-testimonio .card-testimonio .testimonio-text p{font-size: 17px; line-height: 35px;}
 }
@@ -673,8 +671,7 @@ p .sn-icons {
 .fa-linkedin{
  background: blue;
 }
-=======
->>>>>>> 68f7d70a023c76301d882319c03fdbc2e8dd672f
+
 .fa-facebook-f{
    background: #3b5998;
 }
@@ -693,13 +690,11 @@ p .sn-icons {
 .fa-google-plus-g{
    background: #d95232;
 }
-<<<<<<< HEAD
 
-=======
 .fa-linkedin{
  background: #00abf0;
 }
->>>>>>> 68f7d70a023c76301d882319c03fdbc2e8dd672f
+
 .social a:hover {
    padding: 10px 40px;
 }
@@ -720,11 +715,9 @@ p .sn-icons {
     .footer .footer-text p {font-size: 17px;}
     .footer .footer-content .footer-title h2{
         font-size: 20px;
-<<<<<<< HEAD
+
         font-weight: 400px;
-=======
         font-weight: 400;
->>>>>>> 68f7d70a023c76301d882319c03fdbc2e8dd672f
     }
    
     .fab{
@@ -732,11 +725,9 @@ p .sn-icons {
         margin-left: 115px;
         width: 90px;
         text-align: center;
-<<<<<<< HEAD
         font-size: 25px;
-=======
+
         font-size: 12px;
->>>>>>> 68f7d70a023c76301d882319c03fdbc2e8dd672f
      }
      .social{
         
